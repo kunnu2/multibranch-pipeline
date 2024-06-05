@@ -1,5 +1,0 @@
-this is my first file remote.txt
-not present in local only in this remote file in sample.txt
-git config --global user.name "kunal raj"
-git config --global user.email "kunalmpce08@gmail.com"
-git config --list
